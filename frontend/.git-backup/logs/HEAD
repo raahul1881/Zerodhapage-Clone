@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 83a458bf867aede33f6ad6821fb22b6503e00dde Rahul Rajput <raahul.rajput1881@gmail.com> 1766686794 +0530	commit (initial): Initialize project using Create React App
+83a458bf867aede33f6ad6821fb22b6503e00dde 43f1a88a66aacabb11ebc79f751e6ec3a11c22e8 Rahul Rajput <raahul.rajput1881@gmail.com> 1766688629 +0530	commit: Initial Setup
+43f1a88a66aacabb11ebc79f751e6ec3a11c22e8 43f1a88a66aacabb11ebc79f751e6ec3a11c22e8 Rahul Rajput <raahul.rajput1881@gmail.com> 1766688746 +0530	checkout: moving from main to project-structure
+43f1a88a66aacabb11ebc79f751e6ec3a11c22e8 6d4db383cc8115e6e0c19c447be05a2b5188fa70 Rahul Rajput <raahul.rajput1881@gmail.com> 1766691034 +0530	commit: component structure setup
+6d4db383cc8115e6e0c19c447be05a2b5188fa70 6d4db383cc8115e6e0c19c447be05a2b5188fa70 Rahul Rajput <raahul.rajput1881@gmail.com> 1766691073 +0530	checkout: moving from project-structure to home-component
